@@ -15,7 +15,7 @@ The color scheme of the plot can also be modified through the "colour" variable.
 <img width="1123" height="841" alt="image" src="https://github.com/user-attachments/assets/ba7877e3-bdc1-4943-8d78-25414e714593" />
 
 
-## Requirements
+## Dependencies
 - numpy
 - matplotlib
 
